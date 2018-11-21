@@ -1,0 +1,381 @@
+dhoulmagus|alabast dragon|tyrannosaurus wrecks|false
+alabast dragon|drakulard|mechan-o-wyrm|false
+drakulard|belial|drakularge|false
+drakulard|drakularge|pazuzu|false
+drakulard|atlas|drakularge|false
+mechan-o-wyrm|Great Dragon|metal dragon|false
+mechan-o-wyrm|metal dragon|rashaverak|false
+Great Dragon|nodoph|rashaverak|false
+Great Dragon|wishmaster|rashaverak|false
+Great Dragon|rashaverak|tortoceratops|true
+Great Dragon|rashaverak|sintaur|false
+rashaverak|Aamon|Abyss Diver|false
+Aamon|demon king|Korol|false
+tortoceratops|Great Argon Lizard|Material Family|false
+demon king|boss troll|high djinks|false
+Korol|rashaverak|tortured soul|false
+Black dragon|Great Dragon|Bonebaron|true
+Black dragon|Gemon|Great Dragon|false
+Gemon|atlas|Jamirus|false
+Gemon|belial|Jamirus|false
+Gemon|pazuzu|Jamirus|false
+Jamirus|Grimkeeper|Gryphon|false
+Grimkeeper|Aggrosculpture|Erazorblade|false
+Grimkeeper|Aggrosculpture|Gryphon|false
+Grimkeeper|Aggrosculpture|Octaviansentry|false
+Grimkeeper|Aggrosculpture|Pricklyprankster|false
+Gryphon|Anchorman|Erazorblade|false
+Aggrosculpture|Aquestrian gladiator|Angel Slime|false
+Aggrosculpture|Argon lizard|Danglerfish|false
+Octaviansentry|Army ant|Greatdracky|false
+Greatdracky|Greatdracky Part 1|Greatdracky Part 2|false
+Greatdracky Part 1|Dracky|Dracky|false
+Greatdracky Part 2|Dracky|Dracky|false
+belial|Archdemon|Balhib|false
+belial|Archdemon|Great Dragon|false
+belial|Belial part 1|Belial part 1|false
+Belial part 1|Archdemon|Archdemon|false
+Archdemon|archdemon part|archdemon part|false
+archdemon part|Dessertdemon|Dessertdemon|false
+Balhib|balhib part 1|balhib part 2|true
+Balhib|balhib part 1|balhib part 1|false
+Balhib|balhib part 2|balhib part 2|false
+balhib part 1|Magmalice|Firnfiend|false
+balhib part 2|Golem|Goldgolem|false
+Archdemon|Aggrosculpture|dark slime|false
+dark slime|Aggrosculpture|Magicslime|false
+Magicslime|Angel Slime|Cyberslime|false
+Anchorman|Dingaling|demon family|false
+Dingaling|Chainine|Dancing Flame|false
+Erazorblade|Angel Slime|Octaviansentry|false
+Octaviansentry|Argon lizard|Greatdracky|false
+Octaviansentry|Aggrosculpture|Slime|true
+RigorMortex|Zenithdragon|Leonyx|false
+Leonyx|Leokid|Wildcard|false
+Zenithdragon|Dragonlord|Xenlon|false
+Xenlon|Dimensionaldragon|Greygnarl|false
+Xenlon|Prismpeacock|Greygnarl|false
+Xenlon|Yggdrasil|Greygnarl|false
+Prismpeacock|prism peacock 1|prism peacock 2|false
+prism peacock 2|Snowbird|Snowbird|false
+prism peacock 1|Firebird|Firebird|false
+Prismpeacock|Garuda|Pipit|false
+Garuda|Hadescondor|Heligator|true
+Greygnarl|Barbarus|Dragovianlord|false
+Dragovianlord|Dragonlord|Rhapthorne 2|true
+Rhapthorne 2|Estark|Rhapthorne|true
+Estark|Titanis|Xiphos|true
+Titanis|atlas|Moosifer|true
+Titanis|Moosifer|torai wanda|false
+torai wanda|Great Dragon|Octaviansentry|false
+torai wanda|Octaviansentry|rashaverak|false
+Rhapthorne|rhapthorne part 1|rhapthorne part 2|true
+rhapthorne part 1|Nimzo|Zoma|true
+rhapthorne part 2|Mortamor|Orgodemir|true
+Nimzo|Baramos|Khalamari|false
+Nimzo|Baramos|Gamadius|true
+Baramos|Beetleboy|tortoceratops|false
+Baramos|TimeSage|tortoceratops|true
+TimeSage|time sage 1|time sage 2|false
+time sage 1|Fallenpriest|Fallenpriest|false
+time sage 2|tortured soul|tortured soul|false
+Gamadius|demon king|GigaMute|true
+Zoma|Dullahan|Malroth|false
+Zoma|Malroth|Wightking|false
+Malroth|Demon at arms|Hargon|false
+Malroth|Hargon|Khalamari|false
+Hargon|Dhuran|Dierantula|false
+Hargon|Dhuran|Wightking|false
+Wightking|King bubble slime|tortured soul|false
+Wightking|Kingslime|tortured soul|false
+Mortamor|Psaro|ShieldOgr|false
+Mortamor|Psaro|TimeSage|false
+ShieldOgr|ClayNite|Scytheborg|false
+ShieldOgr|Livingstatue|Scytheborg|false
+ShieldOgr|Scytheborg|Trapbox|false
+Trapbox|trap box 1|trap box 2|false
+trap box 1|Mimic|Mimic|false
+trap box 2|Cannibox|Metal kaiser slime|false
+Metal kaiser slime|metal kaiser slime 1|metal kaiser slime 2|false
+metal kaiser slime 1|Metal slime knight|Metal slime knight|false
+metal kaiser slime 2|King cure slime|King cure slime|false
+Psaro|Blackmar|Ruin|false
+Blackmar|Aamon|Ladja|false
+Ladja|Kon|Slon|false
+Ruin|Goldgolem|Mumboh-jumboe|true
+Ruin|Goldgolem|StormsgateCitadel|false
+Ruin|Livingstatue|Mumboh-jumboe|false
+Ruin|Livingstatue|StormsgateCitadel|false
+Mumboh-jumboe|Mumboh|Jumboe|false
+Mumboh|Mum|Boh|false
+Jumboe|Jum|Boe|false
+Orgodemir|Bilhaw|tyrannosaurus wrecks|true
+Orgodemir|torai wanda|tyrannosaurus wrecks|false
+Bilhaw|Balhib|Beetleboy|false
+Bilhaw|Balhib|Black dragon|true
+Bilhaw|Balhib|Beetlebully|false
+Beetlebully|beetlebully 1|beetlebully 2|false
+beetlebully 1|Beetleboy|Beetleboy|false
+Beetlebully|beetlebully 1|beetlebully 1|false
+Beetlebully|Beetleboy|Metal King Slime|true
+Metal King Slime|metal king slime 1|metal king slime 1|false
+metal king slime 1|Liquid Metal Slime|Liquid Metal Slime|false
+Liquid Metal Slime|Metal Slime|Metal Slime|false
+tyrannosaurus wrecks|Hyperanemon|kap|false
+tyrannosaurus wrecks|Hyperanemon|Taurus|false
+Wildcard|Greatgodbird|Wulfspadeace|false
+Greatgodbird|Dragovianlord|Empyrea|false
+Xiphos|CaptainCrow|Nokturnus|true
+Nokturnus|Dhuran|DrSnapped|true
+Dhuran|Blizzybody|Flamethrower|false
+DrSnapped|Darkoniumslime|Murdaw|true
+Darkoniumslime|darkonium slime 1|darkonium slime 2|false
+darkonium slime 1|Beshemoth Slime|Beshemoth Slime|false
+darkonium slime 2|Metal King Slime|Metal King Slime|false
+Murdaw|Bjorn|Gamadius|true
+Murdaw|Bjorn|Nightclubber|false
+Nightclubber|boss troll|drakularge|false
+Nightclubber|boss troll|Frou-frou|false
+Nightclubber|boss troll|pazuzu|false
+boss troll|Diemon|Gorerilla|false
+boss troll|Gorerilla|Inopp|false
+boss troll|Gorerilla|Notsomacho|false
+Corvus|KingGodwyn|Magarugi|false
+KingGodwyn|godwyn 1|godwyn 2|true
+godwyn 1|Goreham-Hogg|Hootingham-Gore|false
+godwyn 2|Goresby-Purrvis|Barbarus|false
+Goresby-Purrvis|goresby-purrvis 1|goresby-purrvis 2|false
+goresby-purrvis 1|Ladja|Greatsabrecat|false
+goresby-purrvis 2|Roseguardin|Demon at arms|false
+Roseguardin|Bonebaron|Lethalarmour|false
+Roseguardin|Riptide|Lethalarmour|false
+Riptide|Beetleboy|Heligator|false
+Riptide|Jumpingjackal|Heligator|false
+Riptide|Pricklyprankster|Heligator|false
+Heligator|Megalodon|Paws|false
+Megalodon|Etherealserpent|most things|false
+Megalodon|Darkslime knight|most things|false
+Megalodon|Giantmoth|most things|false
+Megalodon|Archdemon|most things|false
+Etherealserpent|Tyrantosaurus|most things|true
+Tyrantosaurus|Firebird|most things|false
+Lleviathan|Missinglynx|Seadragon|false
+Lleviathan|Wormonger|Seadragon|false
+Magmalice|Firebird|Golem|false
+Firebird|Mandrakemarshal|Mischievousmole|false
+Firebird|Mandrakemarshal|Nightemperor|false
+Yggdrasil|yggdrasil 1|yggdrasil 2|false
+yggdrasil 1|Gripevine|Gripevine|false
+yggdrasil 2|Treeface|Lleviathan|false
+Treeface|treeface 1|treeface 2|false
+treeface 1|Stumpchump|Stumpchump|false
+treeface 2|Capsichum|Capsichum|false
+Seadragon|Armorpede|Seasaur|false
+Seadragon|Eveel|Seasaur|false
+Eveel|Angel Slime|crabid|false
+Eveel|Angel Slime|Scorpion|false
+Eveel|Armorpede|most things|false
+Seasaur|Argon lizard|Spikedhare|false
+Seasaur|Gasbagon|most things|true
+Gripevine|Hyperheyedra|Marquisdeleon|false
+Marquisdeleon|Buffalogre|Mohawker|false
+Marquisdeleon|Eyevorytusk-tusk|Eyevorytusk-tusk|false
+Hyperheyedra|Angel Slime|Nightemperor|false
+Hyperheyedra|Army ant|Flyguy|false
+Hyperheyedra|Behemoth slime|Nightemperor|false
+Hyperheyedra|Flyguy|most things|false
+Hyperheyedra|Cannibox|most things|false
+Flyguy|Damselfly|some things|false
+Behemoth slime|Angel Slime|Argon lizard|false
+Behemoth slime|Angel Slime|most things|true
+Eyevorytusk-tusk|Abyss Diver|Bewarewolf|false
+Eyevorytusk-tusk|Abyss Diver|Bodkin archer|false
+Eyevorytusk-tusk|Inopp|Lleviathan|false
+Eyevorytusk-tusk|Notsomacho|Lleviathan|false
+Inopp|Barracuda|Snowbird|false
+Inopp|Barracuda|Powieyowie|false
+Inopp|Barracuda|Mischievousmole|false
+Inopp|Jumpingjackal|most things|true
+Jumpingjackal|Argon lizard|Merman|false
+Jumpingjackal|Bewarewolf|Paws|false
+Great Argon Lizard|great argon lizard 1|great argon lizard 1|true
+great argon lizard 1|Argon lizard|Argon lizard|true
+rashaverak|rashaverak 1|rashaverak 2|false
+rashaverak 1|Great Argon Lizard|Great Argon Lizard|true
+rashaverak 2|Frou-frou|Frou-frou|true
+Frou-frou|frou-frou 1|frou-frou 1|true
+frou-frou 1|Frou-fry|Frou-fry|true
+rashaverak|Abyss Diver|Hyperanemon|true
+Wulfspadeace|Abyss Diver|Diamagon|false
+Wulfspadeace|Angel Slime|Diamagon|true
+Diamagon|Abyss Diver|Cluboon|false
+Diamagon|Aggrosculpture|Cluboon|false
+Diamagon|Angel Slime|Cluboon|true
+Cluboon|Aggrosculpture|Hawkhart|false
+Cluboon|Abyss Diver|Hawkhart|false
+Cluboon|Angel Slime|Hawkhart|true
+Hawkhart|Wulfspade|Aggrosculpture|false
+Hawkhart|Abyss Diver|Wulfspade|false
+Hawkhart|Angel Slime|Wulfspade|true
+Demon at arms|Aggrosculpture|Blizzybody|false
+Demon at arms|Aggrosculpture|tortoceratops|false
+Demon at arms|Blizzybody|Danglerfish|true
+Abyss Diver|Seasaur|undead family|true
+Hyperanemon|Lesserdemon|Livingstatue|false
+Hyperanemon|Lesserdemon|Scytheborg|true
+sintaur|drakularge|mad knight|false
+sintaur|Mandrakemarshal|mad knight|true
+sintaur|tortoceratops|mad knight|false
+drakularge|Abyss Diver|Angel Slime|false
+drakularge|Abyss Diver|Argon lizard|false
+drakularge|Abyss Diver|Armorpede|true
+mad knight|Abyss Diver|Aggrosculpture|true
+mad knight|Abyss Diver|Lesserdemon|false
+mad knight|Angel Slime|boss troll|false
+Mandrakemarshal|Aggrosculpture|Drag-goof|false
+Mandrakemarshal|Angel Slime|Drag-goof|false
+Mandrakemarshal|Argon lizard|Notsomacho|true
+Notsomacho|Angel Slime|Diemon|false
+Diemon|diemon 1|diemon 1|true
+diemon 1|Winky|Winky|true
+Notsomacho|Angel Slime|Inopp|false
+Notsomacho|Battering ram|Golem|false
+Notsomacho|Bodkin archer|Golem|false
+Notsomacho|Chainine|Golem|true
+Beshemoth Slime|Behemoth slime|She-slime|true
+She-slime|Argon lizard|tortured soul|true
+tortured soul|Frightknight|Ragin'contagion|false
+tortured soul|Frightknight|Wailin'weed|true
+tortured soul|Frightknight|Wightknight|false
+tortured soul|Frightknight|Cobracardinal|false
+Cobracardinal|Etherealserpent|Fallenpriest|true
+Etherealserpent|Aggrosculpture|Tyrantosaurus|false
+Fallenpriest|Puppeteer|Wrecktor|true
+Puppeteer|Lumpwizard|Slime|false
+Lumpwizard|Demonrider|Eveel|true
+Puppeteer|Abyss Diver|Bewarewolf|true
+Puppeteer|Abyss Diver|Dragonslime|false
+Moosifer|Battering ram|Buffalogre|true
+Battering ram|Abyss Diver|Armorpede|true
+atlas|Garuda|Gigantes|false
+atlas|Moosifer|Gigantes|true
+Baramos|Beetlebully|tortoceratops|false
+Wrecktor|Argon lizard|Silvapithecus|true
+Frightknight|Aamon|Frou-frou|true
+tortoceratops|Frou-frou|Material Family|true
+Bonebaron|Grimrider|Grimrider|true
+Grimrider|Demonrider|Notsomacho|true
+Demonrider|green dragon|demon family|true
+green dragon|Aamon|Snowbird|true
+Goldgolem|Golem|Goodybag|true
+Goodybag|atlas|Damselfly|false
+Goodybag|Battering ram|Damselfly|true
+Firebird|Jumpingjackal|Notsomacho|true
+Dracolord|Great Dragon|Demon at arms|true
+Gemslime|gemslime 1|gemslime 2|true
+gemslime 1|Grandpaslime|Grandpaslime|true
+gemslime 2|Balhib|Balhib|true
+Grandpaslime|grandpaslime 1|grandpaslime 2|true
+grandpaslime 1|King cure slime|King cure slime|true
+grandpaslime 2|Metal kaiser slime|Metal kaiser slime|true
+King cure slime|Kingslime|Kingslime|true
+Kingslime|Behemoth slime|Behemoth slime|true
+Metal slime knight|demon rider|Metal Slime|false
+Metal slime knight|Demonrider|Metal Slime|true
+Dragonlord|alabast dragon|Dracolord|true
+Evilbeast|Corvus|sitting lion beast|true
+Goreham-Hogg|Mohawker|Slon|true
+Slon|Buffalogre|Mandrakemarshal|true
+Buffalogre|Aamon|Battering ram|false
+Buffalogre|Bona constrictor|Gigantes|true
+Mohawker|Greatsabrecat|wishmaster|false
+Mohawker|sintaur|wishmaster|true
+Mohawker|Wildslime|wishmaster|false
+wishmaster|Diemon|Golem|false
+wishmaster|Inopp|Golem|false
+wishmaster|Notsomacho|Golem|true
+Hootingham-Gore|Jamirus|Kon|true
+Kon|Bonebaron|Mandrakemarshal|true
+Blizzybody|Grimkeeper|Snowbird|true
+Magarugi|magarugi 1|magarugi 2|true
+magarugi 1|RigorMortex|Orochi|true
+magarugi 2|Pruslas|Warubou|true
+Pruslas|alabast dragon|Ruin|false
+Pruslas|atlas|Ruin|true
+Pruslas|drakulard|Ruin|false
+Orochi|orochi 1|Orochi|false
+Orochi|orochi 1|orochi 2|true
+orochi 1|torai wanda|torai wanda|true
+orochi 2|Bilhaw|Bilhaw|true
+sitting lion beast|sitting lion beast 1|sitting lion beast 2|true
+sitting lion beast 1|Aquarion|Monkeyzombie|true
+sitting lion beast 2|dark leonyx|ace of spades|true
+Monkeyzombie|Gorerilla|Squign|true
+Monkeyzombie|killer ape|Squign|false
+Gorerilla|Armorpede|Frou-frou|false
+Gorerilla|Barracuda|Frou-frou|true
+Aquarion|Gracos|Nokturnus|true
+Gracos|belial|Merman|false
+Gracos|belial|Octaviansentry|true
+ace of spades|Leopold|Wulfspadeace|true
+Leopold|cerberus|dhoulmagus|false
+Leopold|Chainine|dhoulmagus|true
+Liquidmetalslimeking|Diamond Slime|Slimeblaster|true
+Diamond Slime|diamond slime 1|diamond slime 2|true
+diamond slime 1|Gemslime|Gemslime|true
+diamond slime 2|Darkoniumslime|Darkoniumslime|true
+temp|Barbarus|Monkeyzombie|true
+temp|Squign|Conklave|false
+temp|Darkrobotslime|Wulfspade|false
+temp|Dimensionaldragon|Dorsalfiend|false
+temp|Geniesanguini|Pipit|false
+temp|Elderpipit|Fluffy|false
+temp|Warubou|Leokid|false
+temp|Hunter Mech|Robbin'Huddle|false
+temp|Robbin'Hood|Robbin'sOldLady|false
+temp|Schleimantank|Schwarzmantank|false
+temp|Slidergirl|Slimeblaster|false
+temp|Slimegang|StormsgateCitadel|false
+temp|Thornella|UberKillingmachine|false
+temp|Ultraslime|Princeo'Thieves|false
+temp|Nemeslime|Numen|false
+temp|dark leonyx|Yggdrasil|false
+temp|Zoma'sdevil|temp|false
+Darkrobotslime|Schwarzmantank|Rhapthorne 2|true
+Schwarzmantank|Schleimantank|Sagittar|true
+Schleimantank|StormsgateCitadel|Canzar|true
+Hunter Mech|Golem|Fencing Fox|true
+Kingy|kingy 1|kingy 2|true
+kingy 1|Geniesanguini|Pinksanguini|true
+kingy 2|Pipit|Elderpipit|true
+Geniesanguini|Pinksanguini|high djinks|true
+Numen|Evilbeast|Trode|true
+Trode|trode 1|trode 2|true
+trode 1|Darck|DonMole|true
+trode 2|Warubou|Kingy|true
+Pipit|Empyrea|Garuda|true
+Empyrea|Gryphon|Great Dragon|true
+Elderpipit|elderpipit 1|elderpipit 2|true
+elderpipit 1|Pipit|Wildcard|true
+elderpipit 2|Grandpaslime|Grandpaslime|true
+Warubou|Pinksanguini|TimeSage|true
+Nemeslime|Ultraslime|Darkslime|true
+Ultraslime|Nemeslime|Angel Slime|false
+Ultraslime|King cure slime|Fencing Fox|true
+Conklave|Swarmtroop|Fencing Fox|true
+Squign|Gorerilla|Maniacalmole|true
+Barbarus|Orgodemir|alabast dragon|true
+StormsgateCitadel|Ruin|Lleviathan|true
+Slimegang|slimegang 1|slimegang 2|true
+slimegang 1|Slime|Cureslime|true
+slimegang 2|dark slime|Metal Slime|true
+Slimeblaster|Schleimantank|Rhapthorne 2|true
+Canzar|canzar 1|canzar 2|true
+canzar 1|Gemslime|Gemslime|true
+canzar 2|DarkCrab|DarkCrab|true
+dark leonyx|Leokid|ace of spades|true
+Thornella|Gripevine|She-slime|true
+Wulfspade|Fluffy|Angel Slime|true
+Fluffy|Platypunk|Powieyowie|true
+Dimensionaldragon|Barbarus|wishmaster|true
+Leokid|Great Dragon|Angel Slime|true

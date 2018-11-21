@@ -1,0 +1,506 @@
+Slime|slime|F
+Fencing Fox|nature|E
+Leonyx|beast|X
+Malroth|demon|S
+Demon at arms|demon|A
+Great Dragon|dragon|A
+Mumboh Jumboh|material|S
+Ruin|Material|S
+Overkilling machine|material|S
+Metal Slime|slime|D
+Liquid Metal Slime|slime|C
+Metal King Slime|slime|A
+Dragurn|dragon|D
+Drako|demon|F
+Khalamari|beast|S
+Corvus|???|X
+Snowbird|beast|E
+Dancing Flame|material|E
+Hunter Mech|material|C
+Leopold|beast|X
+Cyber Slime|slime|C
+Beshemoth Slime|slime|C
+demon king|nA|A
+dark slime|nA|C
+demon rider|nA|D
+slime family|nA|nA
+crabid|material|C
+high djinks|nA|B
+boss troll|demon|B
+demon family|demon|nA
+green dragon|dragon|D
+alabast dragon|dragon|X
+dhoulmagus|demon|X
+tyrannosaurus wrecks|nA|S
+drakulard|dragon|S
+mechan-o-wyrm|dragon|A
+belial|demon|A
+drakularge|dragon|B
+pazuzu|demon|A
+atlas|beast|S
+metal dragon|dragon|C
+rashaverak|dragon|A
+nodoph|nA|nA
+wishmaster|material|B
+tortoceratops|dragon|A
+sintaur|dragon|A
+Aamon|demon|S
+Abyss Diver|dragon|B
+Korol|nA|A
+Great Argon Lizard|dragon|B
+Material Family|nA|nA
+tortured soul|undead|A
+Aggrosculpture|demon|C
+Alphyn|beast|A
+Anchorman|material|D
+Angel Slime|slime|D
+Aquarion|beast|X
+Aquestrian gladiator|dragon|D
+Archdemon|demon|B
+Argon lizard|dragon|F
+Armoured wartoise|dragon|C
+Army ant|nature|F
+Baalzack|beast|S
+Baboon beast|Incarnus|X
+Bad egg|slime|F
+Bag o' laughs|material|F
+Balhib|material|A
+Bantamweight|nature|E
+Baramos|demon|S
+Barbarus|dragon|X
+Barracuda|nature|C
+Battering ram|beast|D
+Beetleboy|nature|B
+Behemoth slime|slime|D
+Bewarewolf|beast|C
+Bilhaw|dragon|S
+Bjorn|beast|B
+Black dragon|dragon|S
+Blackmar|demon|S
+Bodkin archer|beast|D
+Boe|material|A
+Boh|material|A
+Bona constrictor|undead|D
+Boppin'badger|beast|F
+Boreal serpent|dragon|E
+Boring bug|nature|D
+Blizzybody|Nature|A
+Bonaconstrictor|Undead|D
+Bonebaron|Undead|A
+Borealserpent|Dragon|E
+Boringbug|Nature|D
+Brownie|Beast|D
+Bubbleslime|Slime|F
+Buffalogre|Beast|A
+Bullfinch|Nature|E
+ButchMan|Material|E
+Cactiball|Nature|E
+Cannibox|Material|D
+Canzar|Slime|S
+Capsichum|Nature|F
+CaptainCrow|Undead|S
+Cerabus|Undead|C
+Chainine|Beast|E
+Chariotchappie|Material|D
+Cheekytiki|Material|F
+Chimaera|Nature|E
+ClayNite|Material|A
+Cluboon|Incarnus|X
+Cluboonace|Incarnus|X
+Cobracardinal|Undead|B
+Cockateer|Beast|B
+Conkettes|Demon|A
+Conklave|Demon|F
+Corruptcarter|Material|B
+CragDevil|Nature|D
+Crossbones|Undead|B
+Crosseye|Demon|D
+Cruelcumber|Nature|F
+Cumulusrex|Material|C
+Cureslime|Slime|C
+Cyberslime|Slime|C
+Damselfly|Dragon|E
+Dancingdevil|Demon|E
+Dancingflame|Material|E
+Danglerfish|Demon|D
+Darck|Incarnus|S
+Darkrobotslime|Slime|X
+Darkslime|Slime|B
+Darkslime knight|Slime|B
+DarkCrab|Undead|C
+Darkoniumslime|Slime|S
+DemoKing|Demon|A
+Demon-at-arms|Demon|A
+Demonrider|Undead|E
+Dessertdemon|Demon|D
+Dhuran|Demon|A
+Diamagon|Incarnus|X
+Diamagonace|Incarnus|X
+Diamond Slime|Slime|X
+Diemon|Beast|C
+Dierantula|Undead|A
+Dimensionaldragon|Dragon|X
+Dingaling|Material|E
+DonMole|Beast|S
+Dorsalfiend|Beast|A
+DrSnapped|Undead|X
+Dracky|Demon|F
+Dracolord|Dragon|S
+Dragracer|Dragon|E
+Drag-goof|Dragon|C
+Dragonrider|Dragon|B
+Dragonslime|Slime|C
+Dragonfry|Dragon|F
+Dragonlord|Dragon|X
+Dragonthorn|Dragon|F
+Dragovianlord|Dragon|X
+Drakeslime|Slime|F
+Drakorpse|Undead|A
+Drohldiabolist|Undead|E
+Drohldrone|Undead|F
+Droolingghoul|Undead|F
+Dualduellers|Dragon|A
+Dullahan|Undead|S
+Elderpipit|Nature|S
+Empyrea|Nature|A
+Erazorblade|Demon|C
+Estark|Material|X
+Etherealserpent|Dragon|B
+Eveel|Nature|D
+Evilbeast|Incarnus|X
+Exorsus|Undead|A
+Eyevorytusk-tusk|Beast|B
+Fallenpriest|Demon|B
+Firebird|Beast|B
+Firespirit|Undead|F
+Firnfiend|Material|D
+Flamethrower|Nature|B
+Florajay|Nature|F
+Fluffy|Beast|X
+Flyguy|Undead|E
+Foodog|Material|D
+Frightknight|Undead|B
+Frogface|Demon|E
+Frostburn|Material|F
+Frou-frou|Dragon|B
+Frou-fry|Dragon|F
+Funghoul|Undead|F
+Gadis|Incarnus|X
+Gamadius|Beast|S
+Gargoyle|Beast|C
+Garuda|Nature|A
+Gasbagon|Dragon|D
+Gemslime|Slime|X
+Gemon|Demon|A
+General|Demon|B
+Geniesanguini|Beast|S
+Ghost|Undead|F
+Giantmoth|Nature|B
+GigaMute|Undead|A
+Gigantes|Beast|A
+Goldgolem|Material|D
+Golem|Material|C
+Goodybag|Material|E
+Goreham-Hogg|Beast|A
+Gorerilla|Nature|B
+Goresby-Purrvis|Nature|S
+Gracos|Demon|A
+Grandpaslime|Slime|S
+Greatargonlizard|Dragon|B
+Greatdracky|Demon|C
+Greatdragon|Dragon|A
+Greatgodbird|Nature|X
+Greatsabrecat|Nature|C
+Greatsabrecub|Nature|E
+Greendragon|Dragon|E
+Greygnarl|Dragon|X
+Grimkeeper|Demon|C
+Grimrider|Undead|B
+Gripevine|Nature|A
+Gruffon|Demon|E
+Gryphon|Demon|C
+Hacksaurus|Dragon|C
+Hadescondor|Nature|C
+Halfhog|Beast|C
+Hammerhood|Beast|F
+Hargon|Demon|S
+Harmour|Material|D
+Hawkhart|Incarnus|X
+Hawkhartace|Incarnus|X
+Headhunter|Demon|E
+Healslime|Slime|F
+Heedoovoodoo|Demon|F
+Heligator|Nature|A
+Hellhornet|Nature|F
+Hellhound|Undead|E
+Heyedra|Undead|C
+Highdjinks|Demon|B
+Hootingham-Gore|Demon|A
+Huntermech|Material|C
+Hyperheyedra|Undead|D
+Hyperanemon|Demon|A
+Imp|Demon|E
+Jailcat|Nature|D
+Jamirus|Demon|B
+Jargon|Dragon|F
+Juggular|Demon|B
+Jum|Material|B
+Jumpingjackal|Beast|C
+Kapurigon|Undead|A
+Khalamarikid|Nature|D
+Killerpillar|Nature|F
+Killingmachine|Material|A
+King bubble slime|Slime|A
+King cure slime|Slime|B
+KingGodwyn|undead|S
+Kingkelp|Material|C
+Kingsanguini|Beast|S
+Kingslime|Slime|C
+Kingsquid|Nature|S
+Knightaberrant|Demon|B
+Komodo|Dragon|F
+Kon|Nature|A
+Ladja|Undead|S
+Leokid|Incarnus|B
+Lesserdemon|Demon|D
+Lethalarmour|Demon|B
+Lips|Demon|F
+Liquidmetalslimeking|Slime|X
+Livingstatue|Material|A
+Lleviathan|Nature|C
+Lumpwizard|Demon|E
+Magarugi|Incarnus|X
+Magicslime|Slime|B
+Magmalice|Material|B
+Malevolamp|Material|C
+Malevolynx|Incarnus|X
+Mandrakemarshal|Dragon|B
+Maniacalmole|Beast|B
+Marquisdeleon|Beast|A
+Mecha-mynah|Material|D
+Mechanowyrm|Dragon|A
+Megalodon|Dragon|B
+Mentalpitcher|Nature|E
+Merman|Beast|C
+Metaldragon|Dragon|C
+Metal kaiser slime|Slime|A
+Metal slime knight|Slime|D
+Mimic|Material|B
+Mischievousmole|Beast|F
+Missinglynx|Beast|C
+Moaiminstrel|Material|D
+Mohawker|Beast|A
+Monkeyzombie|Undead|A
+Moosifer|Beast|A
+Mortamor|Incarnus|X
+Mortella|Demon|A
+Mortoad|Beast|C
+Mottle king slime|Slime|D
+Mottleslime|Slime|E
+Mudmannequin|Material|F
+Muddyhand|Undead|F
+Mum|Material|A
+Mumboh-jumboe|Material|S
+Mummyboy|Undead|E
+Munchie|Nature|X
+Murdaw|Demon|S
+Nardragon|Dragon|E
+Nemeslime|Slime|A
+Nightclubber|Beast|S
+Nightemperor|Beast|D
+Nightknight|Undead|A
+Nimzo|Incarnus|X
+Noblegasbagon|Dragon|C
+Nokturnus|Demon|X
+Notsomacho|Beast|C
+Numen|Nature|X
+Octagoon|Material|C
+Octaviansentry|Demon|C
+Orc|Beast|D
+Orgodemir|Incarnus|X
+Orochi|Dragon|X
+Overkillingmachine|Material|S
+Panpiper|Beast|E
+Panickle|Nature|B
+Paws|Nature|C
+Phantomfencer|Undead|D
+Phantomswordsman|Undead|B
+Pickayune|Beast|F
+Pinksanguini|Beast|B
+Pipit|Nature|C
+Platypunk|Beast|F
+Pocuspoppet|Material|E
+PomPomBom|Undead|D
+Powieyowie|Beast|E
+Pricklyprankster|Demon|D
+Princeo'Thieves|Demon|X
+Prismpeacock|Nature|S
+ProtoMech|Material|B
+Pruslas|Beast|X
+Psaro|Material|X
+Puppeteer|Material|C
+Ragin'contagion|Undead|B
+Reddragon|Dragon|D
+Restlessarmour|Undead|C
+Rhapthorne|Incarnus|X
+Rhapthorne 2|Incarnus|X
+RigorMortex|Incarnus|X
+Riptide|Nature|A
+Robbin'Hood|Demon|A
+Robbin'Huddle|Demon|D
+Robbin'sOldLady|Beast|X
+Rockbomb|Material|E
+Roseguardin|Undead|A
+Rottenegg|Slime|B
+Rubbleslime|Slime|D
+Sagittar|Material|X
+Satyr|Beast|F
+Schleimantank|Slime|S
+Schwarzmantank|Material|X
+Scissorbeatle|Nature|F
+Scorpion|Nature|D
+Scytheborg|Material|A
+Seadog|Beast|D
+Seadragon|Dragon|C
+Seasaur|Dragon|D
+Seeurchin|Demon|F
+Seedyweedie|Slime|B
+Shadow|Material|D
+She-slime|Slime|F
+Shellslime|Slime|E
+ShieldOgr|Material|S
+Shogum|Slime|S
+Silvapithecus|Demon|D
+Skelegon|Dragon|D
+Skeleton|Undead|D
+Skeletonsoldier|Undead|B
+Skipper|Undead|E
+Slidergirl|Slime|S
+Slimeblaster|Slime|S
+Slimegang|Slime|A
+Slimeknight|Slime|D
+Slimestack|Slime|C
+Slon|Beast|A
+Smallfry|Dragon|F
+Snailslime|Slime|E
+Snapdragon|Dragon|E
+Snowmangler|Slime|E
+Soulspawn|Undead|B
+Spikedhare|Nature|D
+Spitnik|Material|F
+Squign|Beast|B
+Starkraven|Nature|B
+Stella|Incarnus|A
+StormsgateCitadel|Material|A
+Stumpchump|Undead|F
+Swarmtroop|Nature|F
+Swingin'hipster|Undead|E
+Tantamount|Beast|B
+Taurus|Beast|A
+Teenysanguini|Beast|E
+Thornella|Nature|A
+Tickingtimeburrm|Material|F
+TimeSage|Material|S
+Titanis|Demon|S
+Trapbox|Material|S
+Trauminator|Material|X
+Treefeller|Demon|F
+Treeface|Nature|C
+Trigertaur|Beast|C
+Triwinder|Dragon|S
+Trode|Nature|X
+Tyrantosaurus|Dragon|B
+UberKillingmachine|Material|S
+Ultraslime|Slime|A
+Vampirecat|Beast|E
+Wailin'weed|Undead|A
+Walkingcorpse|Undead|C
+Warubou|Demon|X
+Waxmurderer|Material|F
+Weakenbeakon|Beast|F
+Weartiger|Beast|D
+Weedie|Slime|F
+Whackanape|Nature|C
+Wightking|Undead|S
+Wightknight|Undead|B
+Wildboarfish|Nature|D
+Wildslime|Slime|E
+Wildcard|Incarnus|X
+Winky|Demon|F
+Woopertrooper|Nature|A
+Wormonger|(Monster|Wiki
+Wrecktor|Demon|D
+Wulfspade|Incarnus|X
+Wulfspadeace|Incarnus|X
+Xenlon|Dragon|X
+Xiphos|Dragon|X
+Yabby|Nature|C
+Yggdrasil|Nature|X
+Zenithdragon|Dragon|X
+Zoma|Incarnus|X
+Zoma'sdevil|Incarnus|A
+Greatdracky Part 1|nA|nA
+Greatdracky Part 2|nA|nA
+Belial part 1|nA|nA
+archdemon part|nA|nA
+balhib part 1|nA|nA
+balhib part 2|nA|nA
+prism peacock 1|nA|nA
+prism peacock 2|nA|nA
+torai wanda|dragon|S
+rhapthorne part 1|nA|nA
+rhapthorne part 2|nA|nA
+time sage 1|nA|nA
+time sage 2|nA|nA
+trap box 1|nA|nA
+trap box 2|nA|nA
+metal kaiser slime 1|nA|nA
+metal kaiser slime 2|nA|nA
+Mumboh|nA|nA
+Jumboe|nA|nA
+Beetlebully|nature|S
+beetlebully 1|nA|nA
+beetlebully 2|nA|nA
+metal king slime 1|nA|nA
+kap|nA|nA
+darkonium slime 1|nA|nA
+darkonium slime 2|nA|nA
+Inopp|nA|nA
+godwyn 1|nA|nA
+godwyn 2|nA|nA
+goresby-purrvis 1|nA|nA
+goresby-purrvis 2|nA|nA
+most things|nA|nA
+yggdrasil 1|nA|nA
+yggdrasil 2|nA|nA
+treeface 1|nA|nA
+treeface 2|nA|nA
+Armorpede|nature|D
+some things|nA|nA
+great argon lizard 1|nA|nA
+rashaverak 1|nA|nA
+rashaverak 2|nA|nA
+frou-frou 1|nA|nA
+undead family|nA|nA
+mad knight|nA|nA
+diemon 1|nA|nA
+gemslime 1|nA|nA
+gemslime 2|nA|nA
+grandpaslime 1|nA|nA
+grandpaslime 2|nA|nA
+sitting lion beast|nA|nA
+magarugi 1|nA|nA
+magarugi 2|nA|nA
+orochi 1|nA|nA
+orochi2 |nA|nA
+orochi2|nA|nA
+orochi 2|nA|nA
+sitting lion beast 1|nA|nA
+sitting lion beast 2|nA|nA
+dark leonyx|nA|nA
+ace of spades|nA|nA
+killer ape|nA|nA
+cerberus|nA|nA
+diamond slime 1|nA|nA
+diamond slime 2|nA|nA
+temp|nA|nA
